@@ -11,12 +11,12 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Aisling O'Reilly # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+about-author: I am currently a trainee solicitor at Vardags, a family law firm specialising in high-net divorce. I qualify in September 2019. I am interested in the theory of law and reform in relation to children matters and domestic abuse.# add description
+#social-twitter: # add your Twitter handle
+#social-facebook: # add your Facebook handle
+#social-github: artemsheludko # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: mailto:aoreillyx@hotmail.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
